@@ -1,0 +1,12 @@
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Debug\SqlJobVis.Core.dll
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Debug\SqlJobVis.Core.pdb
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Debug\SqlJobVis.Core.xml
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Debug\SQLsoftTools.dll
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Debug\SQLsoftTools.pdb
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Debug\SQLsoftTools.xml
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Debug\SqlJobVis.Core.Resources.resources
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Debug\SqlJobVis.Core.dll
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Debug\SqlJobVis.Core.xml
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Debug\SqlJobVis.Core.pdb
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Debug\SqlJobVis.Core.vbprojResolveAssemblyReference.cache
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Debug\SqlJobVis.Core.vbproj.GenerateResource.Cache

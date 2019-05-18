@@ -1,0 +1,13 @@
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Release\SqlJobVis.Core.dll
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Release\SqlJobVis.Core.pdb
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Release\SqlJobVis.Core.xml
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Release\SQLsoftTools.dll
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Release\SQLsoftTools.pdb
+D:\Projects\SqlJobVis\SqlJobVis.Core\bin\Release\SQLsoftTools.xml
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Release\SqlJobVis.Core.Resources.resources
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Release\ResGen.read.1.tlog
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Release\ResGen.write.1.tlog
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Release\SqlJobVis.Core.dll
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Release\SqlJobVis.Core.xml
+D:\Projects\SqlJobVis\SqlJobVis.Core\obj\Release\SqlJobVis.Core.pdb

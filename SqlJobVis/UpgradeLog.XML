@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SqlJobVis">
+</Property><Property Name="Solution File" Value="D:\Projects\SqlJobVis\SqlJobVis.sln">
+</Property><Property Name="Date" Value="01 January 2011">
+</Property><Property Name="Time" Value="01:36:42">
+</Property></Properties><Event ErrorLevel="0" Project="SqlJobVis" Source="SqlJobVis.vbproj" Description="Project file successfully backed up as D:\Projects\SqlJobVis\Backup\SqlJobVis.vbproj">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="AboutBox1.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\AboutBox1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="AboutBox1.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\AboutBox1.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="ApplicationEvents.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="DateRangeDlg.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\DateRangeDlg.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="DateRangeDlg.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\DateRangeDlg.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="Enums.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\Enums.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="FilterDlg.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\FilterDlg.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="FilterDlg.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\FilterDlg.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="JobViewForm.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\JobViewForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="JobViewForm.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\JobViewForm.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="MainForm.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\MainForm.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="Form1.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="Job.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\Job.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="JobComparer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\JobComparer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="JobRunInfosViewer.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\JobRunInfosViewer.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="JobRunInfosViewer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\JobRunInfosViewer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="Options.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\Options.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="OptionsForm.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\OptionsForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="OptionsForm.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\OptionsForm.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="RunInfo.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\RunInfo.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="Schedule.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\Schedule.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="SplashScreen1.Designer.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\SplashScreen1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="SplashScreen1.vb" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\SplashScreen1.vb">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="app.config" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="My Project\app.manifest" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="install.bat" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\install.bat">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="Resources\Database.ico" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\Resources\Database.ico">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="AboutBox1.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="DateRangeDlg.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\DateRangeDlg.resx">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="FilterDlg.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\FilterDlg.resx">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="JobRunInfosViewer.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\JobRunInfosViewer.resx">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="JobViewForm.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\JobViewForm.resx">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="MainForm.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="OptionsForm.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\OptionsForm.resx">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="SplashScreen1.resx" Description="File successfully backed up as D:\Projects\SqlJobVis\Backup\SplashScreen1.resx">
+</Event><Event ErrorLevel="1" Project="SqlJobVis" Source="SqlJobVis.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="SqlJobVis.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SqlJobVis" Source="SqlJobVis.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SqlJobVis" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="SqlJobVis" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
