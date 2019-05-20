@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SqlJobVis", "SqlJobVis\SqlJobVis.vbproj", "{FCB98312-2F22-4A82-AC52-C8305857BC79}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SQLsoftTools", "SQLsoftTools\SQLsoftTools.vbproj", "{74AA0E08-220F-4436-8F04-B9C26106371A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "references", "references", "{5663995E-A32B-48EC-93CC-7792D8F74469}"
+	ProjectSection(SolutionItems) = preProject
+		references\MDIWindowManager.dll = references\MDIWindowManager.dll
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SqlJobVis.Core", "SqlJobVis.Core\SqlJobVis.Core.vbproj", "{527FA469-F719-4665-9824-E43A94435039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB98312-2F22-4A82-AC52-C8305857BC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB98312-2F22-4A82-AC52-C8305857BC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB98312-2F22-4A82-AC52-C8305857BC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB98312-2F22-4A82-AC52-C8305857BC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AA0E08-220F-4436-8F04-B9C26106371A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AA0E08-220F-4436-8F04-B9C26106371A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AA0E08-220F-4436-8F04-B9C26106371A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AA0E08-220F-4436-8F04-B9C26106371A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527FA469-F719-4665-9824-E43A94435039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527FA469-F719-4665-9824-E43A94435039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527FA469-F719-4665-9824-E43A94435039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527FA469-F719-4665-9824-E43A94435039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38C14CE-BC13-447C-AA59-CEE787D980FC}
+	EndGlobalSection
+EndGlobal

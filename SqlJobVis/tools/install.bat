@@ -1,3 +1,0 @@
-"c:\Program Files (x86)\WinZip\WZZIP.EXE" -a "I:\WebSites\sqlsoft\binaries\SQLjobvis_files.zip" "D:\Projects\SqlJobVis\bin\Release\SqlJobVis.exe" "D:\Projects\SqlJobVis\bin\Release\SqlJobVis.exe.config" "D:\Projects\SqlJobVis\bin\Release\SQLsoftTools.dll" "D:\Projects\SqlJobVis\bin\Release\MDIWindowManager.dll"
-"c:\Program Files (x86)\WinZip\WZZIP.EXE" -a "I:\WebSites\sqlsoft\binaries\SQLjobvis.zip"  "D:\Projects\SqlJobVis\Installer\Release\SQLjobvis.msi" "D:\Projects\SqlJobVis\Installer\Release\setup.exe"
-pause
