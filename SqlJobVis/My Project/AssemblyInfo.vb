@@ -11,8 +11,8 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyTitle("SQLjobvis")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("SQLsoft")> 
-<Assembly: AssemblyProduct("SQLjobvis")> 
-<Assembly: AssemblyCopyright("Copyright © SQLsoft 2009-2010")> 
+<Assembly: AssemblyProduct("SQLjobvis")>
+<Assembly: AssemblyCopyright("Copyright © SQLsoft 2009-2019")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>

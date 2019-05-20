@@ -379,7 +379,7 @@ Public Class MainForm
     End Sub
 
     Private Sub AboutToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AboutToolStripMenuItem.Click
-        Dim AF As New AboutBox1
+        Dim AF As New AboutBox
 
         AF.ShowDialog(Me)
     End Sub

@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class AboutBox1
+Partial Class AboutBox
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -27,13 +27,13 @@ Partial Class AboutBox1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(AboutBox1))
-        Me.LogoPictureBox = New System.Windows.Forms.PictureBox
-        Me.LabelProductName = New System.Windows.Forms.Label
-        Me.LabelVersion = New System.Windows.Forms.Label
-        Me.LabelCopyright = New System.Windows.Forms.Label
-        Me.OKButton = New System.Windows.Forms.Button
-        Me.Label1 = New System.Windows.Forms.Label
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(AboutBox))
+        Me.LogoPictureBox = New System.Windows.Forms.PictureBox()
+        Me.LabelProductName = New System.Windows.Forms.Label()
+        Me.LabelVersion = New System.Windows.Forms.Label()
+        Me.LabelCopyright = New System.Windows.Forms.Label()
+        Me.OKButton = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
         CType(Me.LogoPictureBox, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -110,9 +110,9 @@ Partial Class AboutBox1
         Me.Label1.Margin = New System.Windows.Forms.Padding(6, 0, 3, 0)
         Me.Label1.MaximumSize = New System.Drawing.Size(0, 17)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(97, 13)
+        Me.Label1.Size = New System.Drawing.Size(150, 13)
         Me.Label1.TabIndex = 1
-        Me.Label1.Text = "www.sqlsoft.co.uk"
+        Me.Label1.Text = "github.com/Hippunky/SQLsoft"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'AboutBox1

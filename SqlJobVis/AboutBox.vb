@@ -1,4 +1,4 @@
-﻿Public NotInheritable Class AboutBox1
+﻿Public NotInheritable Class AboutBox
 
     Private Sub AboutBox1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         ' Set the title of the form.
@@ -20,6 +20,6 @@
     End Sub
 
     Private Sub Label1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label1.Click
-        Diagnostics.Process.Start("http://www.sqlsoft.co.uk/")
+        Diagnostics.Process.Start("https://github.com/Hippunky/SQLsoft")
     End Sub
 End Class

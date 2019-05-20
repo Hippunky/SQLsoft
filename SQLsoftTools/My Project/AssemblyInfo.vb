@@ -11,8 +11,8 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyTitle("SQLsoftTools")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("N/A")> 
-<Assembly: AssemblyProduct("SQLsoftTools")> 
-<Assembly: AssemblyCopyright("Copyright © N/A 2009")> 
+<Assembly: AssemblyProduct("SQLsoftTools")>
+<Assembly: AssemblyCopyright("Copyright © SQLsoft 2009-2019")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
