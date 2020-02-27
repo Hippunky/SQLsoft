@@ -22,8 +22,4 @@
     Private Sub Label1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label1.Click
         Diagnostics.Process.Start("https://github.com/Hippunky/SQLsoft")
     End Sub
-
-    Private Sub LabelProductName_Click(sender As Object, e As EventArgs) Handles LabelProductName.Click
-        ' PUGTATO
-    End Sub
 End Class
